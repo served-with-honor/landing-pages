@@ -1,0 +1,9 @@
+{
+  "name": "landing-pages",
+  "description": "System for quickly creating brand consistant, high quality landing pages across all companies",
+  "version": "1.0.0",
+  "main": "package.json",
+  "author": "Lee Wise <me@theleewise.com> (https://theleewise.com)",
+  "contributors": [],
+  "license": "UNLICENSED"
+}
